@@ -25,17 +25,17 @@ form {
     padding: 40px 30px;
     backdrop-filter: blur(5px) saturate(160%);
     -webkit-backdrop-filter: blur(5px) saturate(160%);
-    background-color: #000; /* Negro sólido sin transparencia */
+    background-color: #000; 
     border: 0.5mm solid rgba(255, 243, 243, 0.65);
     position: relative;
-    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.6); /* Sombra más marcada abajo */
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.6); 
 }
 
 .title {
     width: 100%;
     font-family: poppins;
     font-size: 30px;
-    font-weight: bold; /* Hacer el título más grueso */
+    font-weight: bold; 
     text-align: center;
     margin-bottom: 20px;
     color: white;
